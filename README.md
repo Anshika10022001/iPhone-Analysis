@@ -8,7 +8,7 @@ A Web Scrapping and Power BI Project of iPhone Data which depicts all of the iPh
 ## Analysis Framework
 
 - Scraped data from Flipkart: The project involved using the Beautiful Soup library in Python to extract data on various iPhone models available on the e-commerce platform Flipkart.
-- Data rectification and assessment: Once the data was scraped, it was rectified and assessed to ensure its accuracy and consistency. This involved removing duplicates, fixing errors, and verifying the information against other sources.
+- Data rectification and assessment: Once the data was scraped, it was rectified and assessed in Power BI(Power Query) to ensure its accuracy and consistency. This involved removing duplicates, fixing errors, and verifying the information against other sources.
 - Dashboard creation: The final output of the project was a dashboard that presented the data in an easily digestible format. The dashboard provided insights on the price and features of different iPhone models, as well as user ratings and reviews.
 - Price analysis: The dashboard allowed for a comprehensive analysis of the prices of various iPhone models available on Flipkart. This included a comparison of prices across different models and variants, as well as a historical price analysis to identify trends and patterns.
 - Feature analysis: The dashboard also provided insights on the features of different iPhone models, including details such as camera specifications, display quality, and storage capacity. This allowed users to compare different models and make an informed purchasing decision.
