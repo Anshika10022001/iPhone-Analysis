@@ -13,6 +13,7 @@ A Web Scrapping and Power BI Project of iPhone Data which depicts all of the iPh
 - Price analysis: The dashboard allowed for a comprehensive analysis of the prices of various iPhone models available on Flipkart. This included a comparison of prices across different models and variants, as well as a historical price analysis to identify trends and patterns.
 - Feature analysis: The dashboard also provided insights on the features of different iPhone models, including details such as camera specifications, display quality, and storage capacity. This allowed users to compare different models and make an informed purchasing decision.
 - User rating and review analysis: In addition to price and feature analysis, the dashboard also included insights on user ratings and reviews of different iPhone models. This provided valuable feedback from other customers and helped users make a more informed purchasing decision.
+- Slicers: Added interactive slicers for front camera, RAM and rear camera so that users can easily filter out the dispalyed data on the dashboard according to their preferences.
 - Data visualization: To make the dashboard more visually appealing and easier to understand, the data was presented in various charts, graphs, and tables. This included price trends over time, feature comparisons, and user ratings and reviews.
 
 ![iPhone Dashboard](https://user-images.githubusercontent.com/128470731/235846722-f0afb980-1a93-4c3c-bbd2-a20b603bc248.png)
