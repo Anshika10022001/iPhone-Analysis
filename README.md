@@ -2,13 +2,16 @@
 src="https://www.digitaltrends.com/wp-content/uploads/2022/09/iphone-14-pro.jpeg?resize=1502%2C845&p=1">
 
 # iPhone Analysis
-
+## Project Description
 A Web Scrapping and Power BI Project of iPhone Data which depicts all of the iPhone information in a dashboard form.
 
-## Analysis Framework
+## Outline of Problem
+To empower consumers to make more informed decisions about which iPhone model to purchase based on their individual needs and preferences, a solution has 
+to be provided to give detailed insights into the prices, features, and user ratings of various iPhone models.
 
+## Analysis Framework
 - Scraped data from Flipkart: The project involved using the Beautiful Soup library in Python to extract data on various iPhone models available on the e-commerce platform Flipkart.
-- Data rectification and assessment: Once the data was scraped, it was rectified and assessed in Power BI(Power Query) to ensure its accuracy and consistency. This involved removing duplicates, fixing errors, and verifying the information against other sources.
+- Data rectification and assessment: Once the data was scraped, it was rectified and assessed in Power BI(Power Query) to ensure its accuracy and consistency. This involved removing duplicates, columns rectification, removing noise values, fixing errors, and verifying the information against other sources.
 - Dashboard creation: The final output of the project was a dashboard that presented the data in an easily digestible format. The dashboard provided insights on the price and features of different iPhone models, as well as user ratings and reviews.
 - Price analysis: The dashboard allowed for a comprehensive analysis of the prices of various iPhone models available on Flipkart. This included a comparison of prices across different models and variants, as well as a historical price analysis to identify trends and patterns.
 - Feature analysis: The dashboard also provided insights on the features of different iPhone models, including details such as camera specifications, display quality, and storage capacity. This allowed users to compare different models and make an informed purchasing decision.
@@ -36,8 +39,14 @@ A Web Scrapping and Power BI Project of iPhone Data which depicts all of the iPh
 
 **Microsoft PowerBI:** Data Cleaning, Power Query, Dashboarding, Visualizations
 
-## Future Scope
+## Limitations/Challenges
+- While the project overall was relatively straightforward, I did encounter a notable challenge during the process. 
+- Specifically, I had limited knowledge and experience with web scraping techniques using Beautiful Soup.
+- As a result, I had to invest a considerable amount of time into learning how to effectively extract data from websites. 
+- I dedicated several hours to watching tutorials on platforms like YouTube in order to grasp the necessary concepts and acquire the skills needed for successful web scraping. 
+- Despite the initial hurdle, this experience proved to be a valuable learning opportunity, enabling me to acquire a new skill set that greatly contributed to the project's success.
 
+## Future Scope
 - Empowering consumers: By providing detailed insights into the prices, features, and user ratings of various iPhone models, this project can empower consumers to make more informed decisions about which model to purchase based on their individual needs and preferences.
 - Saving time and money: With so many iPhone models and variants available on the market, it can be overwhelming for consumers to choose the right one. This project can help users save time and money by presenting the information in a clear and concise format, making it easier for them to compare and select the best option for their budget and requirements.
 - Staying up-to-date: This project can also help users stay up-to-date with the latest iPhone models and features, ensuring that they are aware of all the options available to them. This can be particularly useful for those who are looking to upgrade their current device or switch to an iPhone for the first time.
