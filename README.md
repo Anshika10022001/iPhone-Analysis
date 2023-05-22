@@ -12,10 +12,28 @@ to be provided to give detailed insights into the prices, features, and user rat
 ## Analysis Framework
 - Scraped data from Flipkart: The project involved using the Beautiful Soup library in Python to extract data on various iPhone models available on the e-commerce platform Flipkart.
 - Data rectification and assessment: Once the data was scraped, it was rectified and assessed in Power BI(Power Query) to ensure its accuracy and consistency. This involved removing duplicates, columns rectification, removing noise values, fixing errors, and verifying the information against other sources.
+- Dataset Before: The dataset has several columns with combined values in a single column. For example, the "product name" column includes the product name, RAM and the color name within parentheses. Similarly, the "description" column contains lengthy text that includes information about ROM, display, camera, and other specifications. Additionally, the "ratings" column combines ratings and reviews. Furthermore, many columns have incorrect data types assigned to them.
+
+![PART9](https://github.com/Anshika10022001/iPhone-Analysis/assets/128470731/60607ace-0b2e-43b5-aca3-141e70e13ef2)
+
+- Dataset After: The changes were made and the columns were made suitable for analysis as shown below
+
+![PART10](https://github.com/Anshika10022001/iPhone-Analysis/assets/128470731/35cf0171-290c-488c-8f84-e5631e0856e1)
+
 - Dashboard creation: The final output of the project was a dashboard that presented the data in an easily digestible format. The dashboard provided insights on the price and features of different iPhone models, as well as user ratings and reviews.
 - Price analysis: The dashboard allowed for a comprehensive analysis of the prices of various iPhone models available on Flipkart. This included a comparison of prices across different models and variants, as well as a historical price analysis to identify trends and patterns.
-- Feature analysis: The dashboard also provided insights on the features of different iPhone models, including details such as camera specifications, display quality, and storage capacity. This allowed users to compare different models and make an informed purchasing decision.
+
+![prices prod](https://github.com/Anshika10022001/iPhone-Analysis/assets/128470731/49499f07-4e6f-4b28-be1b-40cfc2c25a47)
+
+- Number of colours available: The following visual would help the customers too see the variety of colours available for thr top iPhone models.
+
+![colours var](https://github.com/Anshika10022001/iPhone-Analysis/assets/128470731/f7f8fede-ceb1-4b5c-9923-c63b2806ef11)
+
 - User rating and review analysis: In addition to price and feature analysis, the dashboard also included insights on user ratings and reviews of different iPhone models. This provided valuable feedback from other customers and helped users make a more informed purchasing decision.
+
+![Ratings prod](https://github.com/Anshika10022001/iPhone-Analysis/assets/128470731/090dd7ec-f133-42cf-8008-82ce0b60eea5)
+
+- Feature analysis: The dashboard also provided insights on the features of different iPhone models, including details such as camera specifications, display quality, and storage capacity. This allowed users to compare different models and make an informed purchasing decision.
 - Slicers: Added interactive slicers for front camera, RAM and rear camera so that users can easily filter out the dispalyed data on the dashboard according to their preferences.
 - Data visualization: To make the dashboard more visually appealing and easier to understand, the data was presented in various charts, graphs, and tables. This included price trends over time, feature comparisons, and user ratings and reviews.
 
