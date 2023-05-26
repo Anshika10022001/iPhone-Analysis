@@ -53,9 +53,31 @@ to be provided to give detailed insights into the prices, features, and user rat
 
 ## Tech Stack
 
-**Python:** Beautiful Soup Library, Web Scrapping Tecniques, DataFrames
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+      Beautiful Soup Library, Web Scrapping Tecniques, DataFrames
+    </td>
+  </tr>
+</table>
 
-**Microsoft PowerBI:** Data Cleaning, Power Query, Dashboarding, Visualizations
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: middle;">
+      <a href="https://learn.microsoft.com/en-us/power-bi/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="80" height="80"/>
+      </a>
+    </td>
+    <td style="vertical-align: middle; padding-left: 10px;">
+     Data Cleaning, Power Query, Dashboarding, Visualizations
+    </td>
+  </tr>
+</table>
 
 ## Limitations/Challenges
 - While the project overall was relatively straightforward, I did encounter a notable challenge during the process. 
